@@ -1,0 +1,7 @@
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\Commands\bin\Debug\Commands.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\Commands\bin\Debug\Commands.pdb
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\Commands\bin\Debug\Ncqrs.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\Commands\obj\Debug\ResolveAssemblyReference.cache
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\Commands\obj\Debug\Commands.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\Commands\obj\Debug\Commands.pdb
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\Commands\bin\Debug\Newtonsoft.Json.dll

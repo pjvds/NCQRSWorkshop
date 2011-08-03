@@ -1,0 +1,13 @@
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\bin\Debug\CommandExecutors.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\bin\Debug\CommandExecutors.pdb
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\bin\Debug\Commands.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\bin\Debug\Domain.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\bin\Debug\Ncqrs.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\bin\Debug\Events.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\bin\Debug\Commands.pdb
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\bin\Debug\Domain.pdb
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\bin\Debug\Events.pdb
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\obj\Debug\ResolveAssemblyReference.cache
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\obj\Debug\CommandExecutors.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\obj\Debug\CommandExecutors.pdb
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\CommandExecutors\bin\Debug\Newtonsoft.Json.dll

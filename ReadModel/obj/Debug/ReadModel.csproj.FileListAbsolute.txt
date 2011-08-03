@@ -1,0 +1,10 @@
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\ReadModel\bin\Debug\ReadModel.dll.config
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\ReadModel\bin\Debug\ReadModel.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\ReadModel\bin\Debug\ReadModel.pdb
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\ReadModel\obj\Debug\ResolveAssemblyReference.cache
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\ReadModel\obj\Debug\ReadModel.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\ReadModel\obj\Debug\ReadModel.pdb
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\ReadModel\bin\Debug\Events.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\ReadModel\bin\Debug\Ncqrs.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\ReadModel\bin\Debug\Newtonsoft.Json.dll
+d:\Projects\NCQRSWorkshop\NCQRSWorkshop\ReadModel\bin\Debug\Events.pdb
